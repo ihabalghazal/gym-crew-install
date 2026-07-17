@@ -23,7 +23,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key><string>com.greenheartiq.gymcrew</string>
-        <key>bundle-version</key><string>1.3.5</string>
+        <key>bundle-version</key><string>1.3.6</string>
         <key>kind</key><string>software</string>
         <key>title</key><string>Gym Crew</string>
       </dict>
